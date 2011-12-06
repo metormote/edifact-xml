@@ -17,6 +17,10 @@ License
 
 The Edifact-XML converter is licensed under GPL v3.0
 
+Contact
+-------
+info(at)appliedmodels.com
+
 
 XML Writer example
 ------------------
