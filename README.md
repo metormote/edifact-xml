@@ -3,7 +3,7 @@ Edifact XML Converter for Java
 
 The Applied Models Edifact to XML converter for Java parses any Edifact input and outputs XML according to the ISO/TS 20625 standard. 
 The converter implements the org.xml.sax.XMLParser interface, which means that it is easily integrated with standard xml processing tools. 
-This implementation covers all Edifact directories from 88.1 up to D10A. 
+This implementation covers all Edifact directories from 88.1 up to D11A. 
 
 Speed and simplicity
 --------------------
@@ -14,6 +14,7 @@ See below for some examples of use.
 
 License
 -------
+
 The Edifact-XML converter is licensed under GPL v3.0
 
 
