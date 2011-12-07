@@ -22,7 +22,7 @@ Contact
 info(at)appliedmodels.com
 
 
-XML Writer example
+XMLWriter example
 ------------------
 
 This example uses the Apache Commons XMLWriter class to output the XML the console.
