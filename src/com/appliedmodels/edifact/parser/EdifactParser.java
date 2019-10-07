@@ -195,7 +195,6 @@ public class EdifactParser extends DefaultHandler implements XMLReader {
                     input=urlCon.getInputStream();
                     reader=new BufferedReader(new InputStreamReader(urlCon.getInputStream(), urlCon.getContentEncoding()));
                 }
-                throw new IllegalArgumentException("no source found");
             }
 
             final EdifactReader ediReader=new EdifactReader(reader);
