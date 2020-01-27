@@ -9,6 +9,20 @@
   <artifactId>edifact-xml</artifactId>
   <version>0.1.0-SNAPSHOT</version>
 
+  <scm>
+    <url>https://github.com/a-s-nikolaichuk/edifact-xml</url>
+    <connection>scm:git:git://github.com/a-s-nikolaichuk/edifact-xml.git</connection>
+    <developerConnection>scm:git:git@github.com:a-s-nikolaichuk/edifact-xml.git</developerConnection>
+  </scm>
+
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub A. Nikolaichuk Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/a-s-nikolaichuk/edifact-xml</url>
+    </repository>
+  </distributionManagement>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
